@@ -31,3 +31,7 @@ What I intend for this app to provide
 
 * Provides Javascript to enable HTML5 notifications if available, otherwise
   falls back to HTML inserted into the DOM.
+
+* Developers can inject the notification Javascript into their templates
+  with a template tag. The channel and use of HTML5 notifications can be
+  overridden with parameters to this tag.
