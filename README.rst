@@ -2,6 +2,13 @@
 django-tsuchi
 =============
 
+Copyright
+---------
+
+Copyright (c) 2012 John Weaver
+
+See LICENSE file.
+
 
 These are the problems that this app solves
 -------------------------------------------
