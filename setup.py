@@ -17,7 +17,7 @@ setup(
     maintainer_email = 'john@saebyn.info',
 
     classifiers = [
-        'Development Status :: 5 - Production/Stable',
+        'Development Status :: 2 - Pre-Alpha',
         'Environment :: Web Environment',
         'Framework :: Django',
         'Intended Audience :: Developers',
